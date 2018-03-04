@@ -1,0 +1,9 @@
+C:\Users\mazha\Desktop\lab1\HW\bin\Release\HW.exe.config
+C:\Users\mazha\Desktop\lab1\HW\bin\Release\HW.exe
+C:\Users\mazha\Desktop\lab1\HW\bin\Release\HW.pdb
+C:\Users\mazha\Desktop\lab1\HW\obj\Release\HW.Form1.resources
+C:\Users\mazha\Desktop\lab1\HW\obj\Release\HW.Properties.Resources.resources
+C:\Users\mazha\Desktop\lab1\HW\obj\Release\HW.csproj.GenerateResource.Cache
+C:\Users\mazha\Desktop\lab1\HW\obj\Release\HW.csproj.CoreCompileInputs.cache
+C:\Users\mazha\Desktop\lab1\HW\obj\Release\HW.exe
+C:\Users\mazha\Desktop\lab1\HW\obj\Release\HW.pdb
